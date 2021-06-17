@@ -16,6 +16,15 @@ body{
 }
 header{
     background-color: var(--color-amarillo);
+
+}
+header p{
+    text-align:center;
+}
+
+body header nav ul li a{
+    text-decoration: none;
+    
 }
 img{
     width: 100%;
