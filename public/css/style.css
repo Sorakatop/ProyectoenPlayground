@@ -1,0 +1,44 @@
+:root{
+    /*colores */
+    --color-amarillo: #EAC926;
+    --color-azul:#03264c;
+    --color-celeste:#1259c3;
+    --color-grisOscuro: #666;
+    --color-grisClaro: #ebebeb;
+    --color-verde: #39b54a;
+    /*fuentes*/
+    --font-roboto: 'Roboto',
+    --
+}
+
+body{
+    font-family: var(--font-roboto);
+}
+header{
+    background-color: var(--color-amarillo);
+}
+img{
+    width: 100%;
+}
+main section h2 {
+
+        font-size: 24px;
+}
+.precios{
+    font-size: 18px;
+
+}
+.descuentos{
+    font-size: 16px;
+}
+.descripcion{
+    font-size: 16px;
+}
+footer{
+    text-align: center;
+}
+#iconos i {
+    align-items: center;
+    font-size: 2em;
+    padding: 10px;
+}
